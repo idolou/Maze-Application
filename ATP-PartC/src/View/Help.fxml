@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="750" prefWidth="1150" stylesheets="@MainStyle.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.PropertiesController">
+    <children>
+        <GridPane layoutX="12.0" layoutY="22.0" prefHeight="183.0" prefWidth="369.0">
+
+        </GridPane>
+    </children>
+</AnchorPane>
+

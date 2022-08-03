@@ -1,0 +1,4 @@
+startServeraze Project d{yyy-MM-dd HH:mm:ss.SSS} [Thread-43] INFO  Server.Server - User connect to server!
+startServeraze Project d{yyy-MM-dd HH:mm:ss.SSS} [Thread-44] INFO  Server.Server - User connect to server!
+stopaze Project d{yyy-MM-dd HH:mm:ss.SSS} [JavaFX Application Thread] INFO  Server.Server - User disconnect to server!
+stopaze Project d{yyy-MM-dd HH:mm:ss.SSS} [JavaFX Application Thread] INFO  Server.Server - User disconnect to server!
